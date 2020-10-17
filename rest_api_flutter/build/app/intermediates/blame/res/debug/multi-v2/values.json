@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\EngineeringWorks\\Flutter\\VsCode\\rest_api\\rest_api_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\EngineeringWorks\\Flutter\\VsCode\\covidApi-main\\rest_api_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\EngineeringWorks\\Flutter\\VsCode\\rest_api\\rest_api_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\EngineeringWorks\\Flutter\\VsCode\\covidApi-main\\rest_api_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
